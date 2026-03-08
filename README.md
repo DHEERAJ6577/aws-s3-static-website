@@ -17,8 +17,9 @@ User → Internet → Amazon S3 → Static Website Hosting
 3. Enabled static website hosting
 4. Configured bucket policy for public access
 
+
 ## Live Website
-[Open Website](http://dheeraj-aws-website-001.s3-website-ap-south-1.amazonaws.com)
+[Open Website](http://dheeraj-aws-website-001.s3-website.ap-south-1.amazonaws.com)
 
 ## Result
 Successfully deployed a static website using AWS Free Tier.
